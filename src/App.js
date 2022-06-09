@@ -1,23 +1,18 @@
-import logo from './logo.svg';
 import './App.css';
+import { Switch , Route , Routes , NavLink } from 'react-router-dom';
+import Accueil from './components/accueil/Accueil';
+import Offres from './components/offre/Offres';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      
+      <Routes>
+        <Route  path="/" element={<Accueil/>} />
+        <Route  path="/Offres" element={<Offres/>} />
+        <Route>404 Not Found!</Route>
+      </Routes>
+ 
     </div>
   );
 }

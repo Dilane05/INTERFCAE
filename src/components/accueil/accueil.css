@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto:ital,wght@1,500&display=swap');
+
+.video{
+    position: relative;
+}
+.carousel{
+    position: relative;
+}
+.carousel video{
+    z-index: 000;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
+
+.texte{
+    position: relative;
+    padding: 100px 20px;
+    width: 50%;
+}
+
+.h1{
+    font-family: 'Roboto','Lobster', cursive;
+}
+
+.FirstSlide{
+    border-bottom: 5px solid white;
+}
+
+.entreprise{
+    border-bottom: 5px solid white;
+    border-top: 5px solid white;
+    padding-bottom: 50px;
+}
+
+.une-entreprise{
+    background-color: white;
+    width: 37%;
+    padding: 5px;
+}
+
+.entreprise h5{
+    width:99%;
+    font-size: 11px;
+    padding: 2px;
+}
+
+
+.img-entreprise img{
+    width: 90px;
+    height: 90px;
+    padding: 5px;
+    margin: 5px;
+}
+
+
+/* */
+
+.boutton-quick button{
+    padding: 15px;
+    margin: 5px;
+    background: none;
+    border: none;
+    border-radius: 20px;
+    border: 1px solid grey;
+    color:white;
+}
+.boutton-quick button:hover{
+    background: silver;
+    color:black;
+}
+
+
+
+.Commencer{
+    background: url(../../../public/media/img/accueil/wel.png);
+    position: relative;
+    height: 30rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.Commencer::after{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    opacity: .5;
+    content: '';
+}
+
+.Commencer h2{
+    position: relative;
+    padding: auto;
+    padding: 35vh 10px
+}
+
+.Commencer button{
+    position: relative;
+    margin: 36vh 0;
+}
+
+.bodyFooter h2{
+    text-transform: uppercase;
+    font-size: 17px;
+    padding-top: 20px;
+    padding-bottom: 0;
+}
+.bodyFooter li{
+    list-style: none;
+}
+
+
+.icones i{
+    display: none;
+}

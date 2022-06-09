@@ -1,0 +1,92 @@
+[
+    {   
+        "id": "1",
+        "emploie": "UI/UX DESIGN",
+        "entreprise": "MTN",
+        "Ville": "Douala",
+        "time": "5min",
+        "img": "media/img/accueil/entreprise/MTN.jpg",
+        "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione totam inventore animi recusandae nam sit deserunt sed voluptatibus debitis repudiandae reprehenderit dolores omnis iste, aspernatur, nulla praesentium error, qui ad.",
+        "type": "stage"
+    },
+    {   
+        "id": "2",
+        "emploie": "DEVELOPPEUR REACT",
+        "entreprise": "SCB",
+        "Ville": "Douala",
+        "time": "25min",
+        "img": "media/img/accueil/entreprise/SCB.png",
+        "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione totam inventore animi recusandae nam sit deserunt sed voluptatibus debitis repudiandae reprehenderit dolores omnis iste, aspernatur, nulla praesentium error, qui ad.",
+        "type": "emploie"
+    },
+    {   
+        "id": "3",
+        "emploie": "ADMINISTRATEUR BD",
+        "entreprise": "CAMTEL",
+        "Ville": "Douala",
+        "time": "1H",
+        "img": "media/img/accueil/entreprise/camtel.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione totam inventore animi recusandae nam sit deserunt sed voluptatibus debitis repudiandae reprehenderit dolores omnis iste, aspernatur, nulla praesentium error, qui ad.",
+        "type": "stage"
+    },    
+    {   
+        "id": "4",
+        "emploie": "DATA SCIENTIST",
+        "entreprise": "ORANGE CM",
+        "Ville": "Douala",
+        "time": "2H",
+        "img": "media/img/accueil/entreprise/Orange_logo.svg.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione totam inventore animi recusandae nam sit deserunt sed voluptatibus debitis repudiandae reprehenderit dolores omnis iste",
+        "type": "stage"
+    },    
+    {   
+        "id": "5",
+        "emploie": "INFOGRAPHE",
+        "entreprise": "GLOTELHO",
+        "Ville": "Yaounde",
+        "time": "1Semaine",
+        "img": "media/img/accueil/entreprise/logo_glotelho.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione totam inventore animi recusandae nam sit deserunt sed voluptatibus debitis repudiandae reprehenderit dolores omnis iste",
+        "type": "emploie"
+    },    
+    {   
+        "id": "6",
+        "emploie": "WEBMASTER",
+        "entreprise": "BAO",
+        "Ville": "Douala",
+        "time": "A moi",
+        "img": "media/img/accueil/entreprise/BAO.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione totam inventore animi recusandae nam sit deserunt sed voluptatibus debitis repudiandae reprehenderit dolores omnis iste",
+        "type": "emploie"
+    },    
+    {   
+        "id": "7",
+        "emploie": "DEVELOPPEUR MOBILE",
+        "entreprise": "ODC",
+        "Ville": "Douala",
+        "time": "1moi",
+        "img": "media/img/accueil/entreprise/ODC.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione totam inventore animi recusandae nam sit deserunt sed voluptatibus debitis repudiandae reprehenderit dolores omnis iste",
+        "type": "Stage"
+    },    
+    {   
+        "id": "8",
+        "emploie": "ADMINISTRATEUR RESEAU",
+        "entreprise": "ENEO ",
+        "Ville": "BAFOUSSAM",
+        "time": "2Mois",
+        "img": "media/img/accueil/entreprise/eneo.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione totam inventore animi recusandae nam sit deserunt sed voluptatibus debitis repudiandae reprehenderit dolores omnis iste",
+        "type": "emploie"
+    },    
+    {   
+        "id": "9",
+        "emploie": "ADMINISTRATEUR BD",
+        "entreprise": "sabc",
+        "Ville": "KRIBI",
+        "time": "48H",
+        "img": "media/img/accueil/entreprise/sabc.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione totam inventore animi recusandae nam sit deserunt sed voluptatibus debitis repudiandae reprehenderit dolores omnis iste",
+        "type": "emploie"
+    }
+]
