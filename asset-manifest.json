@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/interface/static/css/main.824a489d.css",
-    "main.js": "/interface/static/js/main.c08295f7.js",
-    "static/js/787.8916439e.chunk.js": "/interface/static/js/787.8916439e.chunk.js",
-    "static/media/bg.png": "/interface/static/media/bg.9b9118c69b681f6b8268.png",
-    "static/media/Welcom.png": "/interface/static/media/Welcom.27d2df4ed225d91c0fc8.png",
-    "static/media/wel.png": "/interface/static/media/wel.7d99967df1559a116a6e.png",
-    "index.html": "/interface/index.html",
-    "main.824a489d.css.map": "/interface/static/css/main.824a489d.css.map",
-    "main.c08295f7.js.map": "/interface/static/js/main.c08295f7.js.map",
-    "787.8916439e.chunk.js.map": "/interface/static/js/787.8916439e.chunk.js.map"
+    "main.css": "/INTERFCAE/static/css/main.274723d2.css",
+    "main.js": "/INTERFCAE/static/js/main.37febc79.js",
+    "static/js/787.8916439e.chunk.js": "/INTERFCAE/static/js/787.8916439e.chunk.js",
+    "static/media/bg.png": "/INTERFCAE/static/media/bg.9b9118c69b681f6b8268.png",
+    "static/media/Welcom.png": "/INTERFCAE/static/media/Welcom.27d2df4ed225d91c0fc8.png",
+    "static/media/wel.png": "/INTERFCAE/static/media/wel.7d99967df1559a116a6e.png",
+    "index.html": "/INTERFCAE/index.html",
+    "main.274723d2.css.map": "/INTERFCAE/static/css/main.274723d2.css.map",
+    "main.37febc79.js.map": "/INTERFCAE/static/js/main.37febc79.js.map",
+    "787.8916439e.chunk.js.map": "/INTERFCAE/static/js/787.8916439e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.824a489d.css",
-    "static/js/main.c08295f7.js"
+    "static/css/main.274723d2.css",
+    "static/js/main.37febc79.js"
   ]
 }
